@@ -44,13 +44,13 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/demand-forecast-inventory-optimization.git
+git clone https://github.com/AyushMehta1702/Demand-Forecasting-and-Inventory-Optimization-using-Python---Time-Series.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd demand-forecast-inventory-optimization
+cd Demand-Forecasting-and-Inventory-Optimization-using-Python---Time-Series
 ```
 
 ## Usage
@@ -153,11 +153,13 @@ Total Cost: 561.8000000000001
 
 ## Contributing
 
-If you would like to contribute to this project, please open an issue or create a pull request. We welcome contributions and improvements.
+If you would like to contribute to this project, please open an issue or create a pull request. I welcome contributions and improvements.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
 Feel free to copy and paste this code into the "Edit" tab of your README file on GitHub. Be sure to customize it further with any specific details or adjustments you'd like to make for your project.
+```
+## Credits
+Credit goes to [AmanKharwal](https://github.com/amankharwal) and [Codebasics](https://github.com/codebasics) whose tutorials helped me a lot to learn and upgrade my skills in Data Science, Data Analysis, Machine Learning, and Deep Learning. Many thanks to them.
