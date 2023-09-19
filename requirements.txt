@@ -1,0 +1,7 @@
+#pip install requirements.txt
+
+numpy
+pandas
+matplotlib
+plotly
+statsmodels
