@@ -1,4 +1,4 @@
-# Demand Forecasting and Inventory Optimization using Python - Time Series Date - Data Science Project
+# Demand Forecasting and Inventory Optimization using Python - Time Series Data - Data Science Project
 
 ## Table of Contents
 
